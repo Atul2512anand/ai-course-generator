@@ -1,0 +1,5 @@
+{
+  "name": "AI Course Generator",
+  "description": "A client-side tool to generate comprehensive courses with video suggestions and certificates using Gemini and YouTube APIs.",
+  "requestFramePermissions": []
+}
